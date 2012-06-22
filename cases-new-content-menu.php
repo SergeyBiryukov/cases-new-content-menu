@@ -1,4 +1,4 @@
-﻿<?php
+<?php
 /*
 Plugin Name: Cases. New Content Menu
 Plugin URI: http://wpcases.com/
